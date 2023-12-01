@@ -3,22 +3,22 @@
 <img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/cfb2663a-61d8-4b68-be30-b1887697ba03" width="300" height="400">
 
 #### 1- Codecademy (codecademy.com):
-Codecademy provides interactive Python courses, offering hands-on exercises and projects suitable for beginners and intermediate learners.
+- Codecademy provides interactive Python courses, offering hands-on exercises and projects suitable for beginners and intermediate learners.
 
 #### 2- Coursera (coursera.org):
-Coursera offers Python courses from renowned universities and organizations, covering various aspects, from fundamentals to advanced topics.
+- Coursera offers Python courses from renowned universities and organizations, covering various aspects, from fundamentals to advanced topics.
 
 #### 3- edX (edx.org):
-Similar to Coursera, edX provides Python courses from universities worldwide, with a focus on both theoretical knowledge and practical applications.
+- Similar to Coursera, edX provides Python courses from universities worldwide, with a focus on both theoretical knowledge and practical applications.
 
 #### 4- Udemy (udemy.com):
-Udemy is a vast online learning platform that offers a wide range of Python courses, allowing learners to choose based on their skill level and interests.
+- Udemy is a vast online learning platform that offers a wide range of Python courses, allowing learners to choose based on their skill level and interests.
 
 #### 5-Kaggle (kaggle.com):
-Kaggle is an excellent platform for learning Python for data science. It provides real-world datasets, competitions, and projects to apply Python skills.
+- Kaggle is an excellent platform for learning Python for data science. It provides real-world datasets, competitions, and projects to apply Python skills.
 
 #### 6- SoloLearn (sololearn.com):
-SoloLearn offers a mobile-friendly platform with interactive Python lessons, challenges, and a supportive community for learners on the go.
+- SoloLearn offers a mobile-friendly platform with interactive Python lessons, challenges, and a supportive community for learners on the go.
 
 #### 7- W3Schools (w3schools.com):
 W3Schools is a comprehensive web development tutorial site with a dedicated section for Python, providing tutorials, examples, and quizzes.

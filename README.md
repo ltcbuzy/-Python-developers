@@ -36,7 +36,7 @@
 - DataCamp specializes in Python courses tailored for data science and analytics, with a hands-on approach through interactive projects.
 
 #### 12- PyBites (pybites.io):
--PyBites provides coding exercises and challenges to improve Python skills, making it an ideal platform for hands-on learning.
+- PyBites provides coding exercises and challenges to improve Python skills, making it an ideal platform for hands-on learning.
 
 #### 13- MIT OpenCourseWare (ocw.mit.edu):
 - MIT OpenCourseWare offers free Python courses online, providing a high-quality education from one of the world's top institutions.
@@ -45,13 +45,13 @@
 - Google's Python Class is a free resource provided by Google, offering a beginner-friendly introduction to Python programming.
 
 #### 15- Programiz (programiz.com):
-Programiz is an online platform providing tutorials, examples, and quizzes for learning Python, catering to both beginners and intermediate learners.
+- Programiz is an online platform providing tutorials, examples, and quizzes for learning Python, catering to both beginners and intermediate learners.
 
 #### 16- Full Stack Python (fullstackpython.com):
-Full Stack Python focuses on building full-stack applications with Python, covering frameworks, tools, and best practices for developers.
+- Full Stack Python focuses on building full-stack applications with Python, covering frameworks, tools, and best practices for developers.
 
 #### 17- Python.org (python.org):
-The official Python website serves as a hub for extensive documentation, tutorials, and resources for Python learners and developers.
+- The official Python website serves as a hub for extensive documentation, tutorials, and resources for Python learners and developers.
 
 #### 18- LinkedIn Learning (linkedin.com/learning):
 - LinkedIn Learning offers Python courses for professionals, providing a platform for career-oriented skill development.

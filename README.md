@@ -21,40 +21,40 @@
 - SoloLearn offers a mobile-friendly platform with interactive Python lessons, challenges, and a supportive community for learners on the go.
 
 #### 7- W3Schools (w3schools.com):
-W3Schools is a comprehensive web development tutorial site with a dedicated section for Python, providing tutorials, examples, and quizzes.
+* W3Schools is a comprehensive web development tutorial site with a dedicated section for Python, providing tutorials, examples, and quizzes.
 
 #### 8- Hackerrank (hackerrank.com):
-Hackerrank is known for coding challenges and Python tutorials, allowing learners to practice and improve their problem-solving skills.
+- Hackerrank is known for coding challenges and Python tutorials, allowing learners to practice and improve their problem-solving skills.
 
 #### 9- Real Python (realpython.com):
-Real Python focuses on practical tutorials and articles for Python developers, covering a wide range of topics from basics to advanced concepts.
+- Real Python focuses on practical tutorials and articles for Python developers, covering a wide range of topics from basics to advanced concepts.
 
 #### 10- GeeksforGeeks (geeksforgeeks.org):
-GeeksforGeeks is a go-to resource for Python programming and algorithms, offering detailed explanations and examples for various coding problems.
+- GeeksforGeeks is a go-to resource for Python programming and algorithms, offering detailed explanations and examples for various coding problems.
 
-#### DataCamp (datacamp.com):
-DataCamp specializes in Python courses tailored for data science and analytics, with a hands-on approach through interactive projects.
+#### 11- DataCamp (datacamp.com):
+- DataCamp specializes in Python courses tailored for data science and analytics, with a hands-on approach through interactive projects.
 
-#### PyBites (pybites.io):
-PyBites provides coding exercises and challenges to improve Python skills, making it an ideal platform for hands-on learning.
+#### 12- PyBites (pybites.io):
+-PyBites provides coding exercises and challenges to improve Python skills, making it an ideal platform for hands-on learning.
 
-#### MIT OpenCourseWare (ocw.mit.edu):
-MIT OpenCourseWare offers free Python courses online, providing a high-quality education from one of the world's top institutions.
+#### 13- MIT OpenCourseWare (ocw.mit.edu):
+- MIT OpenCourseWare offers free Python courses online, providing a high-quality education from one of the world's top institutions.
 
-#### Google's Python Class (developers.google.com):
-Google's Python Class is a free resource provided by Google, offering a beginner-friendly introduction to Python programming.
+#### 14- Google's Python Class (developers.google.com):
+- Google's Python Class is a free resource provided by Google, offering a beginner-friendly introduction to Python programming.
 
-#### Programiz (programiz.com):
+#### 15- Programiz (programiz.com):
 Programiz is an online platform providing tutorials, examples, and quizzes for learning Python, catering to both beginners and intermediate learners.
 
-#### Full Stack Python (fullstackpython.com):
+#### 16- Full Stack Python (fullstackpython.com):
 Full Stack Python focuses on building full-stack applications with Python, covering frameworks, tools, and best practices for developers.
 
-#### Python.org (python.org):
+#### 17- Python.org (python.org):
 The official Python website serves as a hub for extensive documentation, tutorials, and resources for Python learners and developers.
 
-#### LinkedIn Learning (linkedin.com/learning):
-LinkedIn Learning offers Python courses for professionals, providing a platform for career-oriented skill development.
+#### 18- LinkedIn Learning (linkedin.com/learning):
+- LinkedIn Learning offers Python courses for professionals, providing a platform for career-oriented skill development.
 
 #### DataQuest (dataquest.io):
 DataQuest offers interactive Python courses, emphasizing real-world projects and applications in the field of data science.

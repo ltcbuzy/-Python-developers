@@ -56,17 +56,17 @@
 #### 18- LinkedIn Learning (linkedin.com/learning):
 - LinkedIn Learning offers Python courses for professionals, providing a platform for career-oriented skill development.
 
-#### DataQuest (dataquest.io):
-DataQuest offers interactive Python courses, emphasizing real-world projects and applications in the field of data science.
+#### 19- DataQuest (dataquest.io):
+- DataQuest offers interactive Python courses, emphasizing real-world projects and applications in the field of data science.
 
-#### The Hitchhiker's Guide to Python (docs.python-guide.org):
-The Hitchhiker's Guide to Python is a comprehensive guide covering best practices, tools, and resources for Python developers.
+#### 20- The Hitchhiker's Guide to Python (docs.python-guide.org):
+- The Hitchhiker's Guide to Python is a comprehensive guide covering best practices, tools, and resources for Python developers.
 
-#### PyBites (pybites.io):
-PyBites stands out for its coding exercises and challenges, allowing learners to enhance their Python skills through practical application.
+#### 21- PyBites (pybites.io):
+- PyBites stands out for its coding exercises and challenges, allowing learners to enhance their Python skills through practical application.
 
-#### Talk Python to Me (talkpython.fm):
-Talk Python to Me is a podcast that covers various aspects of Python programming, featuring interviews with industry experts and discussions on Python trends.
+#### 22- Talk Python to Me (talkpython.fm):
+- Talk Python to Me is a podcast that covers various aspects of Python programming, featuring interviews with industry experts and discussions on Python trends.
 
 #### Real Python (realpython.com):
 Real Python continues to provide a wealth of practical tutorials and articles for Python developers, offering in-depth insights into the language.
